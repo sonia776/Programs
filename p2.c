@@ -5,10 +5,10 @@ int main() {
 //simple interest
 
 
-int P , R , T , SI;
+int Principal , Rate , Time , SI;
 
   printf("Enter the principal amount :");
-    scanf("%d",&P);
+    scanf("%d",&Principal);
 
     printf("Enter the Rate of interest :");
     scanf("%d",&R);
