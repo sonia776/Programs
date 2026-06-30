@@ -5,7 +5,7 @@ int main() {
 //simple interest
 
 
-int Principal , Rate , Time , SI;
+int Principal , Rate , Time , SimpleInterest;
 
   printf("Enter the principal amount :");
     scanf("%d",&Principal);
@@ -17,9 +17,9 @@ int Principal , Rate , Time , SI;
     scanf("%d",&Time);
 
 
-  SI= (Principal * Rate * Time)/100;
+  SimpleInterest = (Principal * Rate * Time)/100;
 
-  printf("The SI is %d",SI);
+  printf("The SI is %d",SimpleInterest);
 
   
     return 0;
