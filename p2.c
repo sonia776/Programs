@@ -7,19 +7,19 @@ int main() {
 
 int Principal , Rate , Time , SimpleInterest;
 
-  printf("Enter the principal amount :");
+  printf("Enter the principal amount : ");
     scanf("%d",&Principal);
 
-    printf("Enter the Rate of interest :");
+    printf("Enter the Rate of interest : ");
     scanf("%d",&Rate);
 
-    printf("Enter time in years :");
+    printf("Enter time in years : ");
     scanf("%d",&Time);
 
 
   SimpleInterest = (Principal * Rate * Time)/100;
 
-  printf("The SI is %d",SimpleInterest);
+  printf("Simple interest : %d ",SimpleInterest);
 
   
     return 0;
