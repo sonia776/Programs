@@ -11,13 +11,13 @@ int Principal , Rate , Time , SI;
     scanf("%d",&Principal);
 
     printf("Enter the Rate of interest :");
-    scanf("%d",&R);
+    scanf("%d",&Rate);
 
     printf("Enter time in years :");
-    scanf("%d",&T);
+    scanf("%d",&Time);
 
 
-  SI= (P * R * T)/100;
+  SI= (Principal * Rate * Time)/100;
 
   printf("The SI is %d",SI);
 
