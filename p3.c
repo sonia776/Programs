@@ -3,6 +3,7 @@
 int main() {
 
  int radius, area, circumference;
+const Float PI = 3.14 ;
 
    // area of the circle
 
@@ -15,7 +16,7 @@ int main() {
 
   //circumference of the circle
 
-  circumference = 2*3.14*radius;
+  circumference = 2*PI*radius;
 
   printf("the circumference of the circle is %d",circumference);
 
