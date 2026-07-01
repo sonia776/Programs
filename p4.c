@@ -4,12 +4,12 @@
 
 int main() {
 
-float  temp, F;
+float  temp, Fahrenheit;
  
   printf("Enter the temp in celsius:");
   scanf("%f",&temp);
 
-  F= 9/5*(temp) + 32.0;
+  Fahrenheit= 9/5*(temp) + 32.0;
 
     printf("The temp in fahrenheit is %.2f",F);
 
