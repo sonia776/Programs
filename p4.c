@@ -11,7 +11,7 @@ float  temp, Fahrenheit;
 
   Fahrenheit= 9/5*(temp) + 32.0;
 
-    printf("The temp in fahrenheit is %.2f",F);
+    printf("The temp in fahrenheit is %.2f",Fahrenheit);
 
 
     return 0;
