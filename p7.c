@@ -16,11 +16,11 @@ int main() {
   scanf("%d",&num3);
 
 
-if(a>b && a>c){
+if(num1>num2 && num1>num3){
 printf("First is the biggest number");   
 }
 
-else if (b>a && b>c){
+else if (num2>num1 && num2>c){
     printf("second is the biggest number");  
 }
 
