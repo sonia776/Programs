@@ -20,7 +20,7 @@ if(num1>num2 && num1>num3){
 printf("First is the biggest number");   
 }
 
-else if (num2>num1 && num2>c){
+else if (num2>num1 && num2>num3){
     printf("second is the biggest number");  
 }
 
