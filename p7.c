@@ -4,16 +4,16 @@
 
 int main() {
 
- int a,b,c;
+ int num1,num2,num3;
 
   printf("Enter first number:");
-  scanf("%d",&a);
+  scanf("%d",&num1);
 
   printf("Enter second number:");
-  scanf("%d",&b);
+  scanf("%d",&num2);
 
   printf("Enter third number:");
-  scanf("%d",&c);
+  scanf("%d",&num3);
 
 
 if(a>b && a>c){
