@@ -7,7 +7,7 @@ int main() {
 int English,physics,chemistry,EE,hindi, sum,percentage;
 
     printf("Enter English no :");
-    scanf("%d",&Eng);
+    scanf("%d",&English);
 
     printf("Enter phy no :");
     scanf("%d",&phy);
