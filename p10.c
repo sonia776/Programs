@@ -26,7 +26,7 @@ int English,physics,chemistry,EE,hindi, sum,percentage;
    percentage = (sum)/5;
 
    
-   printf("The grade is :",percentage);
+   printf("The grade is : ",percentage);
 
    if(percentage<100 && percentage>90){
  printf("A");
