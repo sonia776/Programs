@@ -5,7 +5,7 @@ int main() {
 //simple interest
 
 
-int Principal , Rate , Time , SimpleInterest;
+int Principal , Rate , Time , SimpleInterest ;
 
   printf("Enter the principal amount : ");
     scanf("%d",&Principal);
