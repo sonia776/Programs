@@ -5,7 +5,7 @@
 int main() {
  
     int num1,num2,num3;
-    num1= 4;
+    num1= 10;
     num2=6;
 
     printf(" num1= %d num2= %d\n",num1,num2);
