@@ -16,7 +16,7 @@ int main() {
         printf("Both are equal");
      }
      else
-     printf("not equal");
+     printf(" not equal");
 
 
     return 0;
