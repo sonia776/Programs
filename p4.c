@@ -4,7 +4,7 @@
 
 int main() {
 
-float  temp, Fahrenheit;
+float temp, Fahrenheit;
  
   printf("Enter the temp in celsius:");
   scanf("%f",&temp);
