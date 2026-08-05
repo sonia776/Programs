@@ -3,7 +3,7 @@
 int main() {
 
  int radius, area, circumference;
-const Float PI = 3.14 ;
+const float PI = 3.14 ;
 
    // area of the circle
 
