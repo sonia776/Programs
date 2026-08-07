@@ -16,7 +16,7 @@ int main() {
   scanf("%d",&num3);
 
 
-if(num1>num2 && num1>num3){
+if(num1 >num2 && num1>num3){
 printf("First is the biggest number");   
 }
 
