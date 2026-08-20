@@ -10,7 +10,7 @@ int main() {
     scanf("%d",&English);
 
     printf("Enter physics no :");
-    scanf("%d",&phy);
+    scanf("%d",&physics);
 
     printf("Enter chem no :");
     scanf("%d",&chem);
