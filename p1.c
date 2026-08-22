@@ -21,7 +21,7 @@ int main() {
     printf("Enter hindi no :");
     scanf("%d",&hindi);
 
-    sum = Eng+phy+chem+EE+hindi;
+    sum = English+phy+chem+EE+hindi;
 
     printf("the sum of all the subject is %d \n",sum);
 
