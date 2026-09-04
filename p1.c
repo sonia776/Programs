@@ -23,7 +23,7 @@ int main() {
 
     sum = English + physics + chemistry + EE + hindi;
 
-    printf(" the sum of all the subject is %d \n",sum);
+    printf(" The sum of all the subject is %d \n",sum);
 
     percentage= (sum)/5;
 
