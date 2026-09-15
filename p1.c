@@ -13,7 +13,7 @@ int main() {
     scanf("%d",&Physics);
 
     printf("Enter chemistry no :");
-    scanf("%d",&chemistry);
+    scanf("%d",&Chemistry);
 
     printf("Enter EE no :");
     scanf("%d",&EE);
