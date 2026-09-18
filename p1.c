@@ -19,7 +19,7 @@ int main() {
     scanf("%d",&EE);
 
     printf("Enter Hindi no :");
-    scanf("%d",&hindi);
+    scanf("%d",&Hindi);
 
     Sum = English + physics + chemistry + EE + hindi;
 
