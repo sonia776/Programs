@@ -23,7 +23,7 @@ int English , physics , chemistry , EE , hindi , Sum , percentage ;
   
     Sum = English + physics + chemistry + EE + hindi;
 
-   percentage = (sum)/5;
+   percentage = (Sum)/5;
 
    
    printf("The grade is : ",percentage);
