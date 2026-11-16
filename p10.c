@@ -21,7 +21,7 @@ int English , Physics , Chemistry , EE , Hindi , Sum = 0 , Percentage ;
     printf("Enter Hindi no :");
     scanf("%d",&Hindi);
   
-    Sum = English + Physics + chemistry + EE + hindi;
+    Sum = English + Physics + Chemistry + EE + hindi;
 
    percentage = (Sum)/5;
 
