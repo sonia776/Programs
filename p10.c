@@ -18,7 +18,7 @@ int English , Physics , Chemistry , EE , Hindi , Sum = 0 , Percentage ;
     printf("Enter EE no :");
     scanf("%d",&EE);
 
-    printf("Enter hindi no :");
+    printf("Enter Hindi no :");
     scanf("%d",&hindi);
   
     Sum = English + physics + chemistry + EE + hindi;
