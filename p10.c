@@ -13,7 +13,7 @@ int English , Physics , Chemistry , EE , Hindi , Sum = 0 , Percentage ;
     scanf("%d",&Physics);
 
     printf("Enter Chemistry no :");
-    scanf("%d",&chemistry);
+    scanf("%d",&Chemistry);
 
     printf("Enter EE no :");
     scanf("%d",&EE);
